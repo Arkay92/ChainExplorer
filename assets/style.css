@@ -1,0 +1,7 @@
+#generate-graph {
+    display: block;
+}
+#eth-graph-container, #erc20-graph-container {
+    display: inline-block;
+    width: 50%;
+}
